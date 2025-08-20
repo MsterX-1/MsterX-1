@@ -65,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/MsterX-1/MsterX-1/output/snake.svg" alt="Snake animation" />
 
 ###
