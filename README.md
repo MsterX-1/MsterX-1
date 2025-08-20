@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yousef Ibrahim
 =======================================================================================================================================
 
-I'm a Computer and Communication Engineer Student at Alexandria University
+I'm a Computer and Communication Engineering Student at Alexandria University
 
 * 🌍  I'm based in Alexandria, Egypt
 * ✉️  You can contact me at [yousefsaad40@gmail.com](mailto:yousefsaad40@gmail.com)
