@@ -6,7 +6,7 @@ on:
   workflow_dispatch:       # Allow manual run
 
 permissions:
-  contents: write          #  allow workflow to update your README
+  contents: write
 
 jobs:
   snake:
