@@ -46,7 +46,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![GitHub Contribution Snake](https://github.com/MsterX-1/MsterX-1/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/MsterX-1/MsterX-1/output/snake.svg)
 
 ---
 
