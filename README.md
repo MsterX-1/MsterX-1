@@ -43,9 +43,11 @@
 
 ### 📚 Currently learning
 <!--LEARNING:START-->
-- ASP.NET Core Identity
+- ASP.NET Core
 - Clean Architecture
 - Entity Framework Core
+- API Authentication with JWT
+- Refresh Tokens
 <!--LEARNING:END-->
 
 ---
