@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 About Me
-- 🌍 Based in **Alexandria, Egypt**  
-- ✉️ Reach me at **[yousefsaad40@gmail.com](mailto:yousefsaad40@gmail.com)**  
-- 🧠 Currently learning **Full-Stack Development with ASP.NET Core**  
-- 💻 Focused on **Backend Development (C#, .NET Core, EF Core, SQL Server)**  
-- ⚡ Passionate about **building scalable web apps & clean backend architectures**  
+- 🌍 Based in **Alexandria, Egypt**
+- ✉️ Reach me at [yousefsaad40@gmail.com](mailto:yousefsaad40@gmail.com)
+- 🧠 Currently learning **Full-Stack Development with ASP.NET Core**
+- 💻 Focused on **C#, .NET, EF Core, SQL Server**
+- ⚡ Love building scalable APIs & clean architectures
 
 ---
 
@@ -24,10 +24,29 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MsterX-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=MsterX-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsterX-1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+### 🔥 Recent GitHub Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+### 📚 Currently learning
+<!--LEARNING:START-->
+- ASP.NET Core Identity
+- Clean Architecture
+- Entity Framework Core
+<!--LEARNING:END-->
+
+---
+
+### 🐍 Contribution Snake
+![GitHub Contribution Snake](https://github.com/MsterX-1/MsterX-1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
