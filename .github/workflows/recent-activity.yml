@@ -12,6 +12,6 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update README with recent activity
-        uses: Readme-Workflows/recent-activity@v2.3.0   # ✅ exact version
+        uses: Readme-Workflows/recent-activity@v2.3.0   #  exact version
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
