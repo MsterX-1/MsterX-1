@@ -1,0 +1,39 @@
+name: Update "Currently learning" section
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-learning:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Build bullet list from learning.txt
+        id: build
+        run: |
+          echo "content=$(sed 's/^/- /' learning.txt | tr '\n' '\r' | sed 's/\r$//' )" >> $GITHUB_OUTPUT
+
+      - name: Inject into README between markers
+        run: |
+          CONTENT="$(echo "${{ steps.build.outputs.content }}" | tr '\r' '\n')"
+          awk -v repl="$CONTENT" '
+            BEGIN{in=0}
+            /^<!--LEARNING:START-->/{print; print repl; in=1; next}
+            /^<!--LEARNING:END-->/{in=0}
+            !in{print}
+          ' README.md > README.new && mv README.new README.md
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update learning section" || echo "no changes"
+          git push
