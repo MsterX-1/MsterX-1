@@ -3,13 +3,16 @@ name: Recent Activity
 on:
   schedule:
     - cron: "0 * * * *"   # Runs every hour
-  workflow_dispatch:       # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
       - name: Update README with recent activity
         uses: Readme-Workflows/recent-activity@v2.3.0
