@@ -32,8 +32,8 @@
 
 ### 🔥 Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/MsterX-1/AccountsDataCenter/pull/1) in [MsterX-1/AccountsDataCenter](https://github.com/MsterX-1/AccountsDataCenter)
-2. 💪 Opened PR [#1](https://github.com/MsterX-1/AccountsDataCenter/pull/1) in [MsterX-1/AccountsDataCenter](https://github.com/MsterX-1/AccountsDataCenter)
+1. 📔 Created new repository [MsterX-1/Heart-Disease-ML](https://github.com/MsterX-1/Heart-Disease-ML)
+2. 📔 Created new repository [MsterX-1/Heart-Disease-ML](https://github.com/MsterX-1/Heart-Disease-ML)
 3. ⭐ Starred [MsterX-1/AccountsDataCenter](https://github.com/MsterX-1/AccountsDataCenter)
 4. 📔 Created new repository [MsterX-1/AccountsDataCenter](https://github.com/MsterX-1/AccountsDataCenter)
 5. 📔 Created new repository [MsterX-1/Intro](https://github.com/MsterX-1/Intro)
