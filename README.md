@@ -32,11 +32,11 @@
 
 ### 🔥 Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [MsterX-1/Heart-Disease-ML](https://github.com/MsterX-1/Heart-Disease-ML)
-2. 📔 Created new repository [MsterX-1/Heart-Disease-ML](https://github.com/MsterX-1/Heart-Disease-ML)
-3. ⭐ Starred [MsterX-1/AccountsDataCenter](https://github.com/MsterX-1/AccountsDataCenter)
-4. 📔 Created new repository [MsterX-1/AccountsDataCenter](https://github.com/MsterX-1/AccountsDataCenter)
-5. 📔 Created new repository [MsterX-1/Intro](https://github.com/MsterX-1/Intro)
+1. ⭐ Starred [MsterX-1/Bank-System](https://github.com/MsterX-1/Bank-System)
+2. ⭐ Starred [MsterX-1/Gym-System](https://github.com/MsterX-1/Gym-System)
+3. ⭐ Starred [MsterX-1/Red-Black-Tree](https://github.com/MsterX-1/Red-Black-Tree)
+4. ⭐ Starred [MsterX-1/MsterX-1](https://github.com/MsterX-1/MsterX-1)
+5. ⭐ Starred [MsterX-1/Backup-Restore-Automation](https://github.com/MsterX-1/Backup-Restore-Automation)
 <!--RECENT_ACTIVITY:end-->
 
 ---
