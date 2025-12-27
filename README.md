@@ -32,8 +32,8 @@
 
 ### 🔥 Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MsterX-1/OnlineBookStore](https://github.com/MsterX-1/OnlineBookStore)
-2. ⭐ Starred [MsterX-1/Mini-Shell](https://github.com/MsterX-1/Mini-Shell)
+1. 💪 Opened PR [#1](undefined) in [MsterX-1/OnlineBookStore](https://github.com/MsterX-1/OnlineBookStore)
+2. ⭐ Starred [MsterX-1/OnlineBookStore](https://github.com/MsterX-1/OnlineBookStore)
 3. ⭐ Starred [MsterX-1/Mini-Shell](https://github.com/MsterX-1/Mini-Shell)
 4. ⭐ Starred [MsterX-1/Bank-System](https://github.com/MsterX-1/Bank-System)
 5. ⭐ Starred [MsterX-1/Gym-System](https://github.com/MsterX-1/Gym-System)
