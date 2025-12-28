@@ -20,11 +20,14 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=MsterX-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MsterX-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  <img src="https://streak-stats.demolab.com?user=MsterX-1&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=MsterX-1&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsterX-1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsterX-1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+</p>
 
 
 ---
