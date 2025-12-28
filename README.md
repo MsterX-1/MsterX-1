@@ -60,6 +60,6 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/MsterX-1"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/yousef-ibrahim-b4b65a312"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/yousef-ibrahim-saad"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn"/></a>
   <a href="https://discord.com/users/538331445509226496"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="40" alt="Discord"/></a>
 </p>
