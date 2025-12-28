@@ -20,13 +20,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MsterX-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=MsterX-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsterX-1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MsterX-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+
+<img src="https://streak-stats.demolab.com?user=MsterX-1&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsterX-1&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+
 
 ---
 
