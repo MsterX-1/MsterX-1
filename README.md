@@ -34,8 +34,8 @@
 
 ### 🔥 Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [ahmedsa321A/nlp-assignment-1](https://github.com/ahmedsa321A/nlp-assignment-1)
-2. ⭐ Starred [MsterX-1/OnlineBookStore](https://github.com/MsterX-1/OnlineBookStore)
+1. ⭐ Starred [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)
+2. 🔱 Forked [MsterX-1/system-design-academy](https://github.com/MsterX-1/system-design-academy) from [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)
 3. ⭐ Starred [MsterX-1/Mini-Shell](https://github.com/MsterX-1/Mini-Shell)
 4. ⭐ Starred [MsterX-1/Bank-System](https://github.com/MsterX-1/Bank-System)
 5. ⭐ Starred [MsterX-1/Gym-System](https://github.com/MsterX-1/Gym-System)
