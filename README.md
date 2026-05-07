@@ -34,7 +34,7 @@
 
 ### 🔥 Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](undefined) in [MsterX-1/OnlineBookStore](https://github.com/MsterX-1/OnlineBookStore)
+1. 🤝 Became collaborator on [Nour-Azab/Kafka_VS_Jms](https://github.com/Nour-Azab/Kafka_VS_Jms)
 2. ⭐ Starred [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)
 3. 🔱 Forked [MsterX-1/system-design-academy](https://github.com/MsterX-1/system-design-academy) from [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)
 4. ⭐ Starred [MsterX-1/Bank-System](https://github.com/MsterX-1/Bank-System)
