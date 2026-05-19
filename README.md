@@ -34,10 +34,10 @@
 
 ### 🔥 Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Nour-Azab/Weather-Stations-Monitoring](https://github.com/Nour-Azab/Weather-Stations-Monitoring)
-2. 🤝 Became collaborator on [Nour-Azab/Kafka_VS_Jms](https://github.com/Nour-Azab/Kafka_VS_Jms)
-3. 🔱 Forked [MsterX-1/system-design-academy](https://github.com/MsterX-1/system-design-academy) from [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy)
-4. ⭐ Starred [MsterX-1/Bank-System](https://github.com/MsterX-1/Bank-System)
+1. 💪 Opened PR [#2](undefined) in [Nour-Azab/Weather-Stations-Monitoring](https://github.com/Nour-Azab/Weather-Stations-Monitoring)
+2. 💪 Opened PR [#1](undefined) in [Nour-Azab/Weather-Stations-Monitoring](https://github.com/Nour-Azab/Weather-Stations-Monitoring)
+3. 🤝 Became collaborator on [Nour-Azab/Weather-Stations-Monitoring](https://github.com/Nour-Azab/Weather-Stations-Monitoring)
+4. 🤝 Became collaborator on [Nour-Azab/Kafka_VS_Jms](https://github.com/Nour-Azab/Kafka_VS_Jms)
 5. ⭐ Starred [MsterX-1/Gym-System](https://github.com/MsterX-1/Gym-System)
 <!--RECENT_ACTIVITY:end-->
 
