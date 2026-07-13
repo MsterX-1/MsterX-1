@@ -34,10 +34,10 @@
 
 ### 🔥 Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](undefined) in [MsterX-1/MenaCart](https://github.com/MsterX-1/MenaCart)
-2. 💪 Opened PR [#5](undefined) in [MsterX-1/MenaCart](https://github.com/MsterX-1/MenaCart)
-3. 💪 Opened PR [#4](undefined) in [MsterX-1/MenaCart](https://github.com/MsterX-1/MenaCart)
-4. 💪 Opened PR [#1](undefined) in [MsterX-1/MenaCart](https://github.com/MsterX-1/MenaCart)
+1. 💪 Opened PR [#6](undefined) in [MsterX-1/menacart](https://github.com/MsterX-1/menacart)
+2. 💪 Opened PR [#5](undefined) in [MsterX-1/menacart](https://github.com/MsterX-1/menacart)
+3. 💪 Opened PR [#4](undefined) in [MsterX-1/menacart](https://github.com/MsterX-1/menacart)
+4. 💪 Opened PR [#1](undefined) in [MsterX-1/menacart](https://github.com/MsterX-1/menacart)
 5. 🔱 Forked [MsterX-1/backend-cheats](https://github.com/MsterX-1/backend-cheats) from [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats)
 <!--RECENT_ACTIVITY:end-->
 
