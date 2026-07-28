@@ -21,7 +21,7 @@
 - 🎓 Senior **Computer & Communication Engineering** student passionate about backend systems and distributed architecture.
 - 🔭 I’m currently working on **microservices, backend orchestrators, and scalable Web APIs**.
 - 🌱 I’m currently diving deeper into **event-driven architectures (Kafka), container orchestration (Kubernetes), and graph databases**.
-- 💬 Ask me about **Go, Java (Spring Boot), C# (.NET Core), Python, PostgreSQL, Docker, and REST/gRPC APIs**.
+- 💬 Ask me about **distributed system design, gRPC vs. REST APIs, event-driven architecture, or database optimization**.
 
 ---
 
