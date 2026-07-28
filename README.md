@@ -110,9 +110,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MsterX-1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MsterX-1&theme=dark&hide_border=false" width="97%" />
-</p>
 
 ## 📈 GitHub Activity Graph
 
