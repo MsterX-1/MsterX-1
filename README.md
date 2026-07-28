@@ -3,7 +3,7 @@
 # Hi 👋, I'm Yousef Ibrahim Saad
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&width=600&lines=Backend+%26+Distributed+Systems;Computer+%26+Communication+Engineer;Go+%7C+Java+(Spring)+%7C+C%23+(.NET)+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&width=600&center=true&vcenter=true&lines=Backend+%26+Distributed+Systems;Computer+%26+Communication+Engineer;Go+%7C+Java+(Spring)+%7C+C%23+(.NET)+%7C+Python" alt="Typing SVG" />
 </a>
 
 <p align="center">
