@@ -120,7 +120,5 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=MsterX-1&icon=0&color=0" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MsterX-1&color=00ADD8&style=flat" alt="Profile Views" />
 </p>
